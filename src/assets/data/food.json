@@ -1,0 +1,33 @@
+{
+  "foods": [{
+      "namo": "Beer",
+      "category": "drink",
+      "size": "500ml",
+      "calories": "200"
+    },
+    {
+      "namo": "Pizza",
+      "category": "food",
+      "size": "slice",
+      "calories": "285"
+    },
+    {
+      "namo": "Crisps",
+      "category": "snack",
+      "size": "100g bag",
+      "calories": "525"
+    },
+    {
+      "namo": "Chicken Roll",
+      "category": "food",
+      "size": "sandwich/roll",
+      "calories": "328"
+    },
+    {
+      "namo": "Yorkie",
+      "category": "snack",
+      "size": "46g",
+      "calories": "249"
+    }
+  ]
+}
